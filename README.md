@@ -1,4 +1,8 @@
 # dsa
+
 data structures and algorithms
 
-c is the implementation language.
+go is the implementation language.
+
+levitin is the algorithms
+grokking data structures is the data structures
